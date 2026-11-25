@@ -1,0 +1,22 @@
+# Office 临时锁文件
+~$*
+
+# 与「Drawing-Templates/」完全重复
+ML-Drawing-Templates/
+
+# 纳米材料电池素材包：5 GB，含大量 >100MB 的 PSD/视频，超出 GitHub 限制
+Scientific-Illustration-Assets/Nanomaterial-Battery-Lab-Equipment-Diagrams/
+
+# 与已解压文件夹重复的压缩包
+Resume-Templates/Fonts.zip
+Resume-Templates/Resume-Files/WORD.zip
+Resume-Templates/Resume-Files/WORD (2).zip
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# 推送脚本
+push_to_github.bat
+push_log.txt
